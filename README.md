@@ -21,6 +21,6 @@ npm run build
 ```
 
 ### Build
-'''sh
+```sh
 dist
-'''
+```
