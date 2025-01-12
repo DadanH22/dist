@@ -19,3 +19,8 @@ npm ci
 ```sh
 npm run build
 ```
+
+### Build
+'''sh
+dist
+'''
