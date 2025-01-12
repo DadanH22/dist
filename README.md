@@ -8,22 +8,14 @@ This page should help get you started developing with Vue 3 in Vite.
 
 Build for Test Deployment on [Arlink](https://arlink.arweave.net) & Visit the [Live View](https://asc_arlink.arweave.net/) to see the app in action.
 
-## Project Setup
+## Yarn Install
 
 ```sh
-npm install
+npm ci
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
+### Yarn Build
 
 ```sh
 npm run build
 ```
-### Credit
-This project was inspired by [HyperDeFiVault](https://protocol.land/#/repository/89a647b1-6404-4b41-8b36-87025a4599c4) 
